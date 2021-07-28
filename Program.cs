@@ -16,6 +16,9 @@ namespace taller1
 
             // Console.WriteLine($"La suma de estos es: {num1 + num2 + num3}.");
 
+            //Punto 4.
+            //Codigo.
+
             //Punto 5.
 
             // double distancia, tiempo;
