@@ -1,0 +1,16 @@
+C:\Users\dylan\Desktop\sena\Tercer_trimesttre\.NET\actividad_ejercicios\taller_1\taller1\obj\Debug\net5.0\taller1.csproj.AssemblyReference.cache
+C:\Users\dylan\Desktop\sena\Tercer_trimesttre\.NET\actividad_ejercicios\taller_1\taller1\obj\Debug\net5.0\taller1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\Desktop\sena\Tercer_trimesttre\.NET\actividad_ejercicios\taller_1\taller1\obj\Debug\net5.0\taller1.AssemblyInfoInputs.cache
+C:\Users\dylan\Desktop\sena\Tercer_trimesttre\.NET\actividad_ejercicios\taller_1\taller1\obj\Debug\net5.0\taller1.AssemblyInfo.cs
+C:\Users\dylan\Desktop\sena\Tercer_trimesttre\.NET\actividad_ejercicios\taller_1\taller1\obj\Debug\net5.0\taller1.csproj.CoreCompileInputs.cache
+C:\Users\dylan\Desktop\sena\Tercer_trimesttre\.NET\actividad_ejercicios\taller_1\taller1\bin\Debug\net5.0\taller1.exe
+C:\Users\dylan\Desktop\sena\Tercer_trimesttre\.NET\actividad_ejercicios\taller_1\taller1\bin\Debug\net5.0\taller1.deps.json
+C:\Users\dylan\Desktop\sena\Tercer_trimesttre\.NET\actividad_ejercicios\taller_1\taller1\bin\Debug\net5.0\taller1.runtimeconfig.json
+C:\Users\dylan\Desktop\sena\Tercer_trimesttre\.NET\actividad_ejercicios\taller_1\taller1\bin\Debug\net5.0\taller1.runtimeconfig.dev.json
+C:\Users\dylan\Desktop\sena\Tercer_trimesttre\.NET\actividad_ejercicios\taller_1\taller1\bin\Debug\net5.0\taller1.dll
+C:\Users\dylan\Desktop\sena\Tercer_trimesttre\.NET\actividad_ejercicios\taller_1\taller1\bin\Debug\net5.0\ref\taller1.dll
+C:\Users\dylan\Desktop\sena\Tercer_trimesttre\.NET\actividad_ejercicios\taller_1\taller1\bin\Debug\net5.0\taller1.pdb
+C:\Users\dylan\Desktop\sena\Tercer_trimesttre\.NET\actividad_ejercicios\taller_1\taller1\obj\Debug\net5.0\taller1.dll
+C:\Users\dylan\Desktop\sena\Tercer_trimesttre\.NET\actividad_ejercicios\taller_1\taller1\obj\Debug\net5.0\ref\taller1.dll
+C:\Users\dylan\Desktop\sena\Tercer_trimesttre\.NET\actividad_ejercicios\taller_1\taller1\obj\Debug\net5.0\taller1.pdb
+C:\Users\dylan\Desktop\sena\Tercer_trimesttre\.NET\actividad_ejercicios\taller_1\taller1\obj\Debug\net5.0\taller1.genruntimeconfig.cache
